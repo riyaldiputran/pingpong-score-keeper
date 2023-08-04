@@ -1,0 +1,17 @@
+.card {
+    background-color: bisque;
+}
+
+* {
+    border-radius: 0 !important;
+}
+
+.green {
+    color: green;
+}
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'REM', sans-serif;
+
+}
